@@ -6,10 +6,9 @@ Hello, my name is Frederic Strand and I study Industrial Economics with a specia
 
 In my classes I mainly work with python, but I will have some subjects on relational databases and c++. I will also be exploring other languages and frameworks in my spare time. 
 
-- 💼 I am currently working on my portfolio and creditcard fraud detection
+- 💼 I am currently working on my portfolio and an openCV project
 - 📗 I am learning react, Next.js, Typescript, Tailwind and PostGres
-- 📷 For Data Science I am learning Computer Vision
-- 👨🏻‍💻 I am currently enrolled in the course INF201 (intermediate programming)
+- 👨🏻‍💻 I am currently enrolled in the course INF202 (project in intermediate programming)
 
 ### Reach me:
 - ✉️ Email: strandfrederic@outlook.com
