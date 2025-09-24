@@ -18,18 +18,18 @@ In my classes I mainly work with python, but I will have some subjects on relati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+  <!-- ROS2 -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/ros.svg" alt="ROS" width="50" height="50"/>
   <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
   <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
-  <!-- ROS2 -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/ros.svg" alt="ROS" width="50" height="50"/>
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
 </p>
 
 
