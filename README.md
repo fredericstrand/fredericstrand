@@ -1,3 +1,5 @@
+![neural_network_bw](https://github.com/user-attachments/assets/35af7ab6-5ea8-4fb9-a06a-4f57ca47411d)
+
 # Hi, I am Frederic Strand 👋
 
 ### Who am I?
