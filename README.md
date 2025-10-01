@@ -31,10 +31,5 @@ In my classes I mainly work with python, but I will have some subjects on relati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
 </p>
 
-----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredericstrand&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericstrand&layout=compact&theme=radical)
 
 
