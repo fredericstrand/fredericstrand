@@ -18,7 +18,7 @@ In my classes I mainly work with python, but I will have some subjects on relati
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
   <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-Informational?style=flat&logo=database&logoColor=white&color=4479A1" alt="SQL" width="80" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="50" height="50"/>
   <!-- ROS2 -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/ros.svg" alt="ROS" width="50" height="50"/>
   <!-- Scikit-learn -->
