@@ -8,7 +8,7 @@ Hello, my name is Frederic Strand and I study Applied Robotics with a specializa
 In my classes I mainly work with python, but I will have some subjects on relational databases and c++. I will also be exploring other languages and frameworks in my spare time. 
 
 - 💼 I am currently working on an autonomous car and school work.
-- 👨🏻‍💻 I am currently enrolled in DAT300 (Applied Deep Learning), INF230 (Databases), INF250 (image analysis), IND320 (Data to Decision)
+- 👨🏻‍💻 I am currently enrolled in TEL200 (Introduction to Robotics), TEL211 (Introduction to Robot programming)
 
 ### 🛠 Tech Stack
 
