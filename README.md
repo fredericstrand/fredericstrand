@@ -7,7 +7,7 @@ Hello, my name is Frederic Strand and I study Applied Robotics with a specializa
 
 In my classes I mainly work with python, but I will have some subjects on relational databases and c++. I will also be exploring other languages and frameworks in my spare time. 
 
-- 💼 I am currently working on an autonomous car and school work.
+- 💼 I am currently working on a CUAS system
 - 👨🏻‍💻 I am currently enrolled in TEL200 (Introduction to Robotics), TEL211 (Introduction to Robot programming), TEL240 (Control Systems), FYS235 (Electronics)
 
 ### 🛠 Tech Stack
