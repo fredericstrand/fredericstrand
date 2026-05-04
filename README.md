@@ -52,5 +52,12 @@ I work mainly with Python and focus on combining **machine learning with robotic
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fredericstrand&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredericstrand&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericstrand&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
