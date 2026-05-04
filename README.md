@@ -1,37 +1,59 @@
-![neural_network_bw](https://github.com/user-attachments/assets/35af7ab6-5ea8-4fb9-a06a-4f57ca47411d)
-
 # Hi, I am Frederic Strand 👋
 
-### Who am I?
-Hello, my name is Frederic Strand and I study Applied Robotics with a specialization in Programming and Machine Learning at Norwegian University of Life Sciences. I will be graduating with my master's degree Spring 2028.
-
-In my classes I mainly work with python, but I will have some subjects on relational databases and c++. I will also be exploring other languages and frameworks in my spare time. 
-
-- 💼 I am currently working on a CUAS system
-- 👨🏻‍💻 I am currently enrolled in TEL200 (Introduction to Robotics), TEL211 (Introduction to Robot programming), TEL240 (Control Systems), FYS235 (Electronics)
-
-### 🛠 Tech Stack
-
-<p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  <!-- SQL -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="50" height="50"/>
-  <!-- ROS2 -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/ros.svg" alt="ROS" width="50" height="50"/>
-  <!-- Scikit-learn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
-  <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+<p align="center">
+  <img src="https://dddrew.com/wp-content/uploads/2021/01/statistics-regression-machine-learning-ai.jpg" width="600"/>
 </p>
 
+## Who am I?
+I am a master's student in **Applied Robotics** at the Norwegian University of Life Sciences, specializing in **Programming and Machine Learning** (Graduating Spring 2028).
 
+My main focus is building intelligent systems that combine:
+- 🤖 Robotics
+- 📊 Machine Learning
+- 🧠 Artificial Intelligence
 
+---
+
+## What I am working on
+- 💼 CUAS (Counter-Unmanned Aerial Systems)
+- 🧠 Expanding knowledge in machine learning and perception systems
+- ⚙️ Robotics + control systems integration
+
+---
+
+## Current Coursework
+- TEL200 – Introduction to Robotics  
+- TEL211 – Robot Programming  
+- TEL240 – Control Systems  
+- FYS235 – Electronics  
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/ros.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+</p>
+
+---
+
+## Focus Areas
+- Machine Learning & Deep Learning
+- Computer Vision for Robotics
+- Autonomous Systems
+- Control + AI integration
+
+---
+
+## Goals
+- Build real-world ML systems in robotics
+- Contribute to open-source ML/robotics projects
+- Develop strong expertise in perception and autonomy
