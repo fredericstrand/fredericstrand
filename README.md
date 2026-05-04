@@ -10,6 +10,10 @@
 <tr>
 <td valign="top" width="50%">
 
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
 ## Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
