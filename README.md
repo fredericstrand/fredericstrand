@@ -1,14 +1,12 @@
 # Hi, I am Frederic Strand 👋
-
 <p align="center">
-  <img src="https://dddrew.com/wp-content/uploads/2021/01/statistics-regression-machine-learning-ai.jpg" width="600"/>
+  <img src="https://dddrew.com/wp-content/uploads/2021/04/statistics-regression-machinelearning-ai.jpeg" width="600"/>
 </p>
 
 ---
 
 ## About Me
 I am a master's student in **Applied Robotics** at the Norwegian University of Life Sciences, specializing in **Programming and Machine Learning** (Graduating Spring 2028).
-
 I work mainly with Python and focus on combining **machine learning with robotics systems**.
 
 ---
@@ -38,7 +36,6 @@ I work mainly with Python and focus on combining **machine learning with robotic
 ---
 
 ## Tech Stack
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
@@ -54,15 +51,13 @@ I work mainly with Python and focus on combining **machine learning with robotic
 ---
 
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
