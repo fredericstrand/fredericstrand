@@ -13,7 +13,7 @@ I work mainly with Python and focus on combining **machine learning with robotic
 
 ## Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/frederic-ljosland-strand-472aa92ab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -52,12 +52,12 @@ I work mainly with Python and focus on combining **machine learning with robotic
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fredericstrand&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericstrand&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
