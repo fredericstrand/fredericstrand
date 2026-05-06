@@ -56,8 +56,6 @@ I work mainly with Python and focus on combining **machine learning with robotic
 
 ## What I am working on
 - 💼 CUAS (Counter-Unmanned Aerial Systems)
-- 🤖 Robotics + control systems
-- 🧠 Machine learning applications
 
 ---
 
