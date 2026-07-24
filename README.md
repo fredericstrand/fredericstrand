@@ -60,7 +60,9 @@ I work mainly with Python and focus on combining **machine learning with robotic
 ---
 
 ## Current Coursework
-- TEL200 – Introduction to Robotics  
-- TEL211 – Robot Programming  
-- TEL240 – Control Systems  
-- FYS235 – Electronics
+- TEL310 - Probabilistic Robotics
+- TEL260 - Sensor systems
+- LAD102 - GIS - practical introduction
+- GMGI221 - Automating GIS processes
+- FYS230 - Electrical Engineering
+- DAT320 - Analysis of sequential and time series data
